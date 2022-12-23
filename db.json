@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "wantTo": "sell",
+      "nombre": "casco morado",
+      "precio": 20
+    },
+    {
+      "id": 2,
+      "wantTo": "buy",
+      "nombre": "arco dorado",
+      "precio": 50
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nickName": "FranyxD",
+      "vendiendo" : [],
+      "comprando": []
+    }
+  ]
+}

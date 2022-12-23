@@ -1,0 +1,17 @@
+@mixin size($w:auto, $h:auto){
+    @if $w == full {
+        width: 100%;
+        height: 100%;
+    }@else {
+        width: $w;
+        height: $h;
+    }
+}
+@mixin flexCol(){
+    display: flex;
+    flex-direction: column;
+}
+//COMPONENTE
+@mixin wantTo(){
+    
+}
